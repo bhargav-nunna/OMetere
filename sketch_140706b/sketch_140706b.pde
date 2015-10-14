@@ -1,6 +1,4 @@
-/**
-circle path clock by <a href="http://www.local-guru.net/guru">guru</a>
-*/
+
 color be=0;
 color en=125;
 color c=125;
